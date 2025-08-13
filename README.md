@@ -1,5 +1,5 @@
 # README.md
-# Inventory Rewired - Business Analytics Project
+# Inventory Rewired - Business Analytics Club IITB
 
 ## Project Overview
 **Objective**: Optimize inventory and replenishment decisions for Retail Craft Pvt. Ltd. to reduce out-of-stock events and excess inventory holding costs by 10% over a 3-month horizon.
